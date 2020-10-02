@@ -6,4 +6,3 @@ greeting
 greeting
 greeting
 greeting
-learn test
